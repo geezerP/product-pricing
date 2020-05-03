@@ -1,4 +1,4 @@
-# product-subscription-pricing-tes
+# Product Subscription Pricing Test
 
 A simple product pricing &amp; subscription app
 
