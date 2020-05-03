@@ -23,6 +23,7 @@ export const SubscriptionPlanCard = styled.div`
   border-top: 5px solid ${Colors.aqua};
   height: auto;
   box-shadow: 0 2px 2px 0 rgba(14, 30, 37, 0.32);
+  text-transform: capitalize
 `;
 
 export const SubscriptionPlanCardHeading = styled.h2`

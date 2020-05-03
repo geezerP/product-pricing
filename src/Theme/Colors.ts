@@ -1,6 +1,6 @@
 const Colors = {
-    aqua: "#33cccc",
-    grey: "#666",
+    aqua: "	#000000",
+    grey: "	#008000",
     lightGrey: "#ccc",
     red: "#cc0000"
   };
